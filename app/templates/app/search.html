@@ -1,0 +1,27 @@
+{% extends 'app/base.html' %}
+{% load static %}
+{% block title %}Men Bottom Wear{% endblock title %}
+{% block main-content %}
+<div class="container my-5">
+ 
+  
+  <div class="col-sm-8">
+    <div class="row">
+      {%for product in data%}
+      <div class="col-sm-6 text-center mb-4">
+        <a href="{%url 'product-detail' product.id%}" class="btn">
+          <div class="item">
+            <img src="{{product.product_image.url}}" alt="" height="300" class="">
+            <div class="fw-bold mt-3"><h5><b>{{product.brand}}</b></h5></div>
+            <div class="fw-bold">Rs. {{product.discounted_price}}<br>
+            <small class="fw-light text-decoration-line-through">{{product.selling_price}}></small></div>
+          </div>
+        </a>
+        <hr>
+      </div>
+      {%endfor%}
+    </div>
+  </div>
+ </div>
+</div>
+{% endblock main-content %}
