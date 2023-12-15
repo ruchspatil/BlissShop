@@ -5,15 +5,19 @@ BlissShop is an online Shopping web based application Project in Python, Django.
 ## Technologies used:
 
 Front-End Development  | Back-End Development |    Database     |
----------------------- | ---------------------| --------------- |
-        HTML           |        Python        |      MySql      |
-        CSS            |        Django        |
-     Javascript
-
-
+:----------------------: | :---------------------: | :---------------: |
+HTML           |        Python        |      MySql      |
+CSS            |        Django        |        -              
+Javascript     |          -           |        -
 
 ## Features of our system:
 1. Display all the available categories for shopping on the home page.
 2. Allows the admin to modify the price of each item, whenever required or felt like.
 3. Admin has the authority to update the description of each item.
 4. Permission to the admin to view information about each customer who checkouts the items list.
+
+## Some Screenshots for the project:
+
+**Home Page:**
+
+![picture alt](https://github.com/ruchspatil/BlissShop/ "Title is optional")
