@@ -20,4 +20,4 @@ Javascript     |          -           |        -
 
 **Home Page:**
 
-![Home](https://github.com/ruchspatil/BlissShop/Screenshots/Home.jpeg)
+![Home](Screenshots/Home.jpeg)
