@@ -20,4 +20,4 @@ Javascript     |          -           |        -
 
 **Home Page:**
 
-![picture alt](https://github.com/ruchspatil/BlissShop/ "Title is optional")
+![Home](https://github.com/ruchspatil/BlissShop/Screenshots/Home.jpeg)
