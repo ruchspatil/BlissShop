@@ -20,4 +20,5 @@ Javascript     |          -           |        -
 
 **Home Page:**
 
-![Home]("Screenshots/Home.jpeg")
+![Home](Screenshots/Home.jpeg)
+
