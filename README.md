@@ -1,7 +1,7 @@
 <h1 id="custom-id" align="center">BlissShop - WEB BASED APP FOR SHOPPING</h1>
 
 
-BlissShop is an ***online Shopping web based application*** Project in Python, Django. The main objective of this application is to make it interactive and its ease of use. It would make searching, viewing and selection of a product easier. The user can then view the complete specification of each product. The admin also plays an important role for this project as the admin is the one responsible for adding any product to the store, updating the items, removing the item from the store as well as managing the inventory. 
+BlissShop is an ***online Shopping web based application*** Project in Python, Django. The main objective of this application is to make it interactive and its ease of use. It would make searching, viewing and selection of a product easier. The user can then view the complete specification of each product. The admin also plays an important role for this project as the admin is the one responsible for adding any product to the store, updating the items, removing the item from the store as well as managing the inventory.
 
 <img src="https://forthebadge.com/images/featured/featured-built-with-love.svg" width="180" align="center">   <img src="https://forthebadge.com/images/badges/made-with-python.svg" align="center">   <img src="https://forthebadge.com/images/badges/uses-html.svg" width="140" align="center"> <img src="https://forthebadge.com/images/badges/uses-css.svg" width="130" align="center">  
 
